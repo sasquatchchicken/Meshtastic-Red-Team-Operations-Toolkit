@@ -57,7 +57,7 @@ The toolkit demonstrates how adversary-like capabilities can be applied for **la
     "snr": 10.5,
     "hops": 1,
     "mac_address": "xxxxx+Xx",  --> not shown for security reasons
-    "public_key": "Dy0ge+GYvXrqh5QlSgI2RPMucmYwOlk7wP8ArhSogkI=",
+    "public_key": "Dy0ge+GYvXrqh5QlS!!!!!!!!!!!!!k7wP8ArhSogkI=", --> for security purposes we have masked or altered the actual public_key
     "local_psk": "PSK_ERROR"
 }
 ```
